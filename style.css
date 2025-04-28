@@ -84,3 +84,14 @@ footer {
     gap: 10px;
 }
 }
+
+nav .current {
+  font-weight: bold;
+  text-decoration: none;
+  cursor: default;
+}
+
+h1 a {
+  text-decoration: none;
+  color: black;
+}
